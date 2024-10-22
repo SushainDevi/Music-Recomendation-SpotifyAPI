@@ -3,6 +3,9 @@
 **Overview:**
 This repository contains code for a music recommendation system that utilizes the Spotify API to extract music data and provide personalized recommendations based on user input. The system employs a hybrid approach, combining content-based filtering and popularity-based scoring to generate relevant recommendations.
 
+**Live**
+[Demo](https://huggingface.co/spaces/deviSushain/MusicRecommendation-SpotifyAPI)
+
 **Key Features:**
 
 1. **Accessing and Tokenization:** The system authenticates with the Spotify API using client credentials and obtains an access token for data extraction.
